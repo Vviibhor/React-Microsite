@@ -1,0 +1,40 @@
+.insight-box {
+    position: absolute;
+    margin: 500px 300px 100px 300px;
+    width: 70%;
+    /* height: 600px; */
+    padding: 50px 25px;
+    background-color:white;
+    z-index: 4;
+}
+
+.header_title{
+    color:#0033A0;
+    font-size: 45px;
+    margin: auto;
+    /* display: table; */
+    text-align: center;
+    letter-spacing: -1px;
+}
+
+.header_desc{
+    text-align: center;
+    font-size: 16px;
+    margin: auto;
+    /* padding: 0px 190px; */
+    padding: 0px 35px;
+    /* font-family: "TTNorms-Light"; */
+    font-family: 'ProximaNova-Light';
+    line-height: 27px;
+}
+
+.header_underline{
+    height: 2px;
+    width: 100px;
+    /* box-shadow: 5px 12px #11A749; */
+    background: #11A749;
+    margin: auto;
+    /* margin-bottom: 30px; */
+    /* margin-top: 15px; */
+    margin-bottom: 20px;
+}
